@@ -1,3 +1,3 @@
 # Espanol
-A tool for learning Spanish
+Find a tool for learning Spanish
 https://spanish.imiku.me/
